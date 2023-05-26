@@ -402,3 +402,9 @@ Understanding the pros and cons of HTML can help developers make informed decisi
  
  
  HTML (Hypertext Markup Language) is a standard markup language used for creating web pages and structuring their content. It provides a set of elements and tags that define the layout, text, images, links, and other components of a web page. HTML allows for the organization and hierarchy of content through headings, paragraphs, lists, tables, and more. It also enables the inclusion of media elements such as images and videos. HTML is the backbone of the World Wide Web and works in conjunction with CSS (Cascading Style Sheets) and JavaScript to create visually appealing, interactive, and accessible web pages.
+ 
+ 
+ ## REFERENCE 
+ 
+ - [ WIKIPEDIA ] (https://en.wikipedia.org/wiki/HTML)
+ - [ HOSTINGER ] (https://www.hostinger.in/tutorials/what-is-html)
