@@ -14,9 +14,10 @@
 ## CREATION OF HTML
 HTML (Hypertext Markup Language) was created by a group of scientists and researchers at CERN (European Organization for Nuclear Research) in the late 1980s. The primary individuals credited with the creation of HTML are Tim Berners-Lee and his colleague Robert Cailliau.
 
+![download](https://github.com/simplyshunnu/HTML/assets/127955482/e0dbce02-f355-4e3b-8b44-ebf585df1d64)
 
 
-
+## Tim Berners-Lee
 
 Tim Berners-Lee, a British computer scientist, is often considered the inventor of the World Wide Web. In 1989, while working at CERN, he proposed a system for information management that utilized hypertext, which laid the foundation for what would become HTML. Berners-Lee developed the first web browser called "WorldWideWeb" and the first web server. He also authored the first version of HTML along with the HTTP (Hypertext Transfer Protocol) and URL (Uniform Resource Locator) standards.
 
